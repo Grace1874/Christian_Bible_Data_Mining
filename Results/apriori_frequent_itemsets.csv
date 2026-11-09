@@ -1,0 +1,673 @@
+support,itemsets
+0.011156049882035727,frozenset({'aaron'})
+0.024098415908324906,frozenset({'according'})
+0.010819009100101112,frozenset({'altar'})
+0.01651499831479609,frozenset({'answered'})
+0.015200539265251096,frozenset({'art'})
+0.028816986855409503,frozenset({'away'})
+0.0429726996966633,frozenset({'behold'})
+0.012639029322548028,frozenset({'blood'})
+0.011122345803842264,frozenset({'bread'})
+0.018267610380856083,frozenset({'brethren'})
+0.02342433434445568,frozenset({'bring'})
+0.01193124368048534,frozenset({'brother'})
+0.027805864509605663,frozenset({'brought'})
+0.011054937647455342,frozenset({'burnt'})
+0.020222446916076844,frozenset({'called'})
+0.06464442197505899,frozenset({'came'})
+0.015975733063700707,frozenset({'cast'})
+0.010684192787327266,frozenset({'cause'})
+0.051365015166835185,frozenset({'children'})
+0.01793056959892147,frozenset({'christ'})
+0.013279406808223796,frozenset({'cities'})
+0.026188068756319516,frozenset({'city'})
+0.06120660599932592,frozenset({'come'})
+0.014492753623188406,frozenset({'commanded'})
+0.011156049882035727,frozenset({'congregation'})
+0.010380856083586115,frozenset({'cut'})
+0.03016514998314796,frozenset({'david'})
+0.052039096730704414,frozenset({'day'})
+0.02686215032018874,frozenset({'days'})
+0.011156049882035727,frozenset({'dead'})
+0.011526794742163803,frozenset({'death'})
+0.031243680485338727,frozenset({'did'})
+0.010077519379844961,frozenset({'die'})
+0.01102123356926188,frozenset({'drink'})
+0.010616784630940344,frozenset({'dwell'})
+0.030535894843276037,frozenset({'earth'})
+0.019649477586788002,frozenset({'eat'})
+0.018806875631951468,frozenset({'egypt'})
+0.019177620492079543,frozenset({'evil'})
+0.016144253454668016,frozenset({'eyes'})
+0.012807549713515335,frozenset({'face'})
+0.032726659925851026,frozenset({'father'})
+0.017290192113245704,frozenset({'fathers'})
+0.012976070104482642,frozenset({'fear'})
+0.01243680485338726,frozenset({'flesh'})
+0.02804179305695989,frozenset({'forth'})
+0.014694978092349174,frozenset({'gave'})
+0.016177957532861477,frozenset({'given'})
+0.012504213009774183,frozenset({'glory'})
+0.1311762723289518,frozenset({'god'})
+0.012167172227839569,frozenset({'gold'})
+0.022076171216717223,frozenset({'good'})
+0.03083923154701719,frozenset({'great'})
+0.0435793731041456,frozenset({'hand'})
+0.014796090326929558,frozenset({'hands'})
+0.028581058308055275,frozenset({'hast'})
+0.06204920795416245,frozenset({'hath'})
+0.01125716211661611,frozenset({'head'})
+0.017391304347826087,frozenset({'hear'})
+0.020963936636332996,frozenset({'heard'})
+0.02578361981799798,frozenset({'heart'})
+0.018570947084597236,frozenset({'heaven'})
+0.013380519042804179,frozenset({'high'})
+0.018335018537243005,frozenset({'holy'})
+0.057735085945399396,frozenset({'house'})
+0.07751937984496124,frozenset({'israel'})
+0.011627906976744186,frozenset({'jacob'})
+0.0258510279743849,frozenset({'jerusalem'})
+0.03174924165824065,frozenset({'jesus'})
+0.025412874957869903,frozenset({'judah'})
+0.06461071789686552,frozenset({'king'})
+0.010650488709133805,frozenset({'kingdom'})
+0.010414560161779576,frozenset({'kings'})
+0.02416582406471183,frozenset({'know'})
+0.0502190765082575,frozenset({'land'})
+0.015470171890798787,frozenset({'law'})
+0.011358274351196495,frozenset({'left'})
+0.04108527131782946,frozenset({'let'})
+0.013784967981125716,frozenset({'life'})
+0.01958206943040108,frozenset({'like'})
+0.22743511964947757,frozenset({'lord'})
+0.03286147623862487,frozenset({'make'})
+0.08173238961914392,frozenset({'man'})
+0.05099427030670711,frozenset({'men'})
+0.011796427367711493,frozenset({'midst'})
+0.026390293225480282,frozenset({'moses'})
+0.013346814964610718,frozenset({'mouth'})
+0.010819009100101112,frozenset({'nations'})
+0.009976407145264578,frozenset({'night'})
+0.01698685540950455,frozenset({'offering'})
+0.011661611054937647,frozenset({'old'})
+0.027098078867542973,frozenset({'pass'})
+0.013481631277384564,frozenset({'peace'})
+0.06477923828783283,frozenset({'people'})
+0.0224469160768453,frozenset({'place'})
+0.01031344792719919,frozenset({'pray'})
+0.016110549376474555,frozenset({'priest'})
+0.012639029322548028,frozenset({'priests'})
+0.011189753960229188,frozenset({'right'})
+0.12140208965284799,frozenset({'said'})
+0.040343781597573306,frozenset({'saith'})
+0.011661611054937647,frozenset({'saul'})
+0.017997977755308394,frozenset({'saw'})
+0.03373778227165487,frozenset({'say'})
+0.0474216380182002,frozenset({'saying'})
+0.011863835524098415,frozenset({'sea'})
+0.022345803842264915,frozenset({'sent'})
+0.015436467812605326,frozenset({'servant'})
+0.014863498483316482,frozenset({'servants'})
+0.022379507920458376,frozenset({'set'})
+0.01317829457364341,frozenset({'seven'})
+0.20431412200876306,frozenset({'shall'})
+0.04088304684866869,frozenset({'shalt'})
+0.010785305021907651,frozenset({'sight'})
+0.013077182339063027,frozenset({'sin'})
+0.06059993259184361,frozenset({'son'})
+0.03222109875294911,frozenset({'sons'})
+0.014560161779575328,frozenset({'soul'})
+0.01954836535220762,frozenset({'spake'})
+0.01631277384563532,frozenset({'speak'})
+0.015369059656218402,frozenset({'spirit'})
+0.01098752949106842,frozenset({'stood'})
+0.012942366026289181,frozenset({'sword'})
+0.010010111223458039,frozenset({'tabernacle'})
+0.010920121334681496,frozenset({'taken'})
+0.09221435793731042,frozenset({'thee'})
+0.023761375126390292,frozenset({'thereof'})
+0.027603640040444893,frozenset({'thine'})
+0.017323896191439165,frozenset({'thing'})
+0.034512976070104485,frozenset({'things'})
+0.13080552746882373,frozenset({'thou'})
+0.013279406808223796,frozenset({'thousand'})
+0.10256150994270306,frozenset({'thy'})
+0.019076508257499156,frozenset({'time'})
+0.024738793394000674,frozenset({'took'})
+0.24806201550387597,frozenset({'unto'})
+0.015369059656218402,frozenset({'voice'})
+0.012234580384226491,frozenset({'water'})
+0.020492079541624537,frozenset({'way'})
+0.043444556791371755,frozenset({'went'})
+0.011594202898550725,frozenset({'wherefore'})
+0.010953825412874959,frozenset({'wicked'})
+0.01247050893158072,frozenset({'wife'})
+0.011324570273003034,frozenset({'woman'})
+0.02275025278058645,frozenset({'word'})
+0.017559824738793393,frozenset({'words'})
+0.012807549713515335,frozenset({'work'})
+0.010785305021907651,frozenset({'yea'})
+0.010920121334681496,frozenset({'year'})
+0.015166835187057633,frozenset({'years'})
+0.008021570610043815,"frozenset({'according', 'lord'})"
+0.007313784967981126,"frozenset({'unto', 'according'})"
+0.011189753960229188,"frozenset({'said', 'answered'})"
+0.007145264577013819,"frozenset({'answered', 'unto'})"
+0.00502190765082575,"frozenset({'thee', 'art'})"
+0.014998314796090328,"frozenset({'art', 'thou'})"
+0.005999325918436131,"frozenset({'art', 'unto'})"
+0.005999325918436131,"frozenset({'away', 'lord'})"
+0.0075497135153353555,"frozenset({'shall', 'away'})"
+0.00596562184024267,"frozenset({'unto', 'away'})"
+0.005460060667340748,"frozenset({'behold', 'came'})"
+0.005156723963599595,"frozenset({'behold', 'come'})"
+0.005797101449275362,"frozenset({'behold', 'god'})"
+0.013380519042804179,"frozenset({'behold', 'lord'})"
+0.005055611729019211,"frozenset({'man', 'behold'})"
+0.009706774519716885,"frozenset({'said', 'behold'})"
+0.005426356589147287,"frozenset({'saith', 'behold'})"
+0.010819009100101112,"frozenset({'shall', 'behold'})"
+0.007684529828109201,"frozenset({'thee', 'behold'})"
+0.006639703404111898,"frozenset({'behold', 'thou'})"
+0.006673407482305359,"frozenset({'thy', 'behold'})"
+0.012807549713515335,"frozenset({'unto', 'behold'})"
+0.005662285136501517,"frozenset({'brethren', 'unto'})"
+0.0075160094371418944,"frozenset({'bring', 'lord'})"
+0.009740478597910347,"frozenset({'shall', 'bring'})"
+0.008763060330299966,"frozenset({'bring', 'unto'})"
+0.007583417593528817,"frozenset({'brought', 'lord'})"
+0.008796764408493427,"frozenset({'brought', 'unto'})"
+0.0064037748567576675,"frozenset({'offering', 'burnt'})"
+0.005055611729019211,"frozenset({'said', 'called'})"
+0.0074823053589484325,"frozenset({'called', 'unto'})"
+0.0053252443545669026,"frozenset({'day', 'came'})"
+0.0058308055274688235,"frozenset({'god', 'came'})"
+0.005561172901921132,"frozenset({'house', 'came'})"
+0.006167846309403438,"frozenset({'israel', 'came'})"
+0.00886417256488035,"frozenset({'came', 'king'})"
+0.014694978092349174,"frozenset({'came', 'lord'})"
+0.005460060667340748,"frozenset({'man', 'came'})"
+0.015604988203572633,"frozenset({'came', 'pass'})"
+0.005426356589147287,"frozenset({'came', 'people'})"
+0.011594202898550725,"frozenset({'said', 'came'})"
+0.00886417256488035,"frozenset({'saying', 'came'})"
+0.005695989214694978,"frozenset({'came', 'son'})"
+0.022143579373104145,"frozenset({'unto', 'came'})"
+0.007212672733400742,"frozenset({'came', 'went'})"
+0.005628581058308055,"frozenset({'word', 'came'})"
+0.005190428041793057,"frozenset({'god', 'children'})"
+0.022413211998651837,"frozenset({'israel', 'children'})"
+0.005123019885406134,"frozenset({'land', 'children'})"
+0.013751263902932255,"frozenset({'children', 'lord'})"
+0.0053252443545669026,"frozenset({'said', 'children'})"
+0.009908998988877654,"frozenset({'shall', 'children'})"
+0.016211661611054938,"frozenset({'unto', 'children'})"
+0.006370070778564206,"frozenset({'god', 'christ'})"
+0.008695652173913044,"frozenset({'jesus', 'christ'})"
+0.006033029996629592,"frozenset({'shall', 'city'})"
+0.006808223795079204,"frozenset({'unto', 'city'})"
+0.007785642062689585,"frozenset({'god', 'come'})"
+0.0053252443545669026,"frozenset({'israel', 'come'})"
+0.005561172901921132,"frozenset({'let', 'come'})"
+0.01482979440512302,"frozenset({'come', 'lord'})"
+0.005426356589147287,"frozenset({'man', 'come'})"
+0.00717896865520728,"frozenset({'come', 'pass'})"
+0.011627906976744186,"frozenset({'said', 'come'})"
+0.02254802831142568,"frozenset({'shall', 'come'})"
+0.009639366363329963,"frozenset({'thee', 'come'})"
+0.009167509268621503,"frozenset({'come', 'thou'})"
+0.0075497135153353555,"frozenset({'thy', 'come'})"
+0.02264914054600607,"frozenset({'unto', 'come'})"
+0.007280080889787664,"frozenset({'commanded', 'lord'})"
+0.0058308055274688235,"frozenset({'david', 'king'})"
+0.009201213346814965,"frozenset({'david', 'lord'})"
+0.008021570610043815,"frozenset({'said', 'david'})"
+0.005594876980114594,"frozenset({'david', 'son'})"
+0.008291203235591507,"frozenset({'david', 'unto'})"
+0.00741489720256151,"frozenset({'day', 'god'})"
+0.0052578361981799795,"frozenset({'israel', 'day'})"
+0.016649814627569936,"frozenset({'day', 'lord'})"
+0.006572295247724975,"frozenset({'said', 'day'})"
+0.014492753623188406,"frozenset({'shall', 'day'})"
+0.005763397371081901,"frozenset({'thee', 'day'})"
+0.007313784967981126,"frozenset({'day', 'thou'})"
+0.005763397371081901,"frozenset({'thy', 'day'})"
+0.01675092686215032,"frozenset({'day', 'unto'})"
+0.006605999325918436,"frozenset({'days', 'lord'})"
+0.007819346140883046,"frozenset({'shall', 'days'})"
+0.006370070778564206,"frozenset({'unto', 'days'})"
+0.009470845972362656,"frozenset({'did', 'lord'})"
+0.008223795079204585,"frozenset({'did', 'unto'})"
+0.005224132119986518,"frozenset({'die', 'shall'})"
+0.0052578361981799795,"frozenset({'earth', 'heaven'})"
+0.008291203235591507,"frozenset({'earth', 'lord'})"
+0.007751937984496124,"frozenset({'shall', 'earth'})"
+0.006201550387596899,"frozenset({'earth', 'unto'})"
+0.007313784967981126,"frozenset({'shall', 'eat'})"
+0.005763397371081901,"frozenset({'eat', 'unto'})"
+0.008493427704752275,"frozenset({'land', 'egypt'})"
+0.007246376811594203,"frozenset({'egypt', 'lord'})"
+0.0058645096056622855,"frozenset({'unto', 'egypt'})"
+0.006774519716885743,"frozenset({'evil', 'lord'})"
+0.005392652510953826,"frozenset({'god', 'father'})"
+0.006100438153016515,"frozenset({'father', 'lord'})"
+0.00717896865520728,"frozenset({'said', 'father'})"
+0.006134142231209976,"frozenset({'shall', 'father'})"
+0.00502190765082575,"frozenset({'father', 'son'})"
+0.005055611729019211,"frozenset({'father', 'thou'})"
+0.006336366700370744,"frozenset({'thy', 'father'})"
+0.010650488709133805,"frozenset({'unto', 'father'})"
+0.005763397371081901,"frozenset({'fathers', 'lord'})"
+0.006201550387596899,"frozenset({'fathers', 'unto'})"
+0.005123019885406134,"frozenset({'fear', 'lord'})"
+0.00623525446579036,"frozenset({'forth', 'lord'})"
+0.00670711156049882,"frozenset({'shall', 'forth'})"
+0.0075497135153353555,"frozenset({'forth', 'unto'})"
+0.005527468823727671,"frozenset({'gave', 'unto'})"
+0.006336366700370744,"frozenset({'unto', 'given'})"
+0.006841927873272666,"frozenset({'hand', 'god'})"
+0.005561172901921132,"frozenset({'god', 'hast'})"
+0.015840916750926862,"frozenset({'hath', 'god'})"
+0.005123019885406134,"frozenset({'heart', 'god'})"
+0.0100438153016515,"frozenset({'house', 'god'})"
+0.0162453656892484,"frozenset({'israel', 'god'})"
+0.006875631951466127,"frozenset({'jesus', 'god'})"
+0.0074823053589484325,"frozenset({'god', 'king'})"
+0.005156723963599595,"frozenset({'know', 'god'})"
+0.00765082574991574,"frozenset({'land', 'god'})"
+0.006504887091338052,"frozenset({'let', 'god'})"
+0.053859116953151334,"frozenset({'god', 'lord'})"
+0.01243680485338726,"frozenset({'man', 'god'})"
+0.005662285136501517,"frozenset({'god', 'men'})"
+0.00977418267610381,"frozenset({'god', 'people'})"
+0.019716885743174924,"frozenset({'said', 'god'})"
+0.012976070104482642,"frozenset({'saith', 'god'})"
+0.006538591169531514,"frozenset({'say', 'god'})"
+0.006134142231209976,"frozenset({'saying', 'god'})"
+0.025042130097741828,"frozenset({'shall', 'god'})"
+0.007347489046174587,"frozenset({'god', 'shalt'})"
+0.007347489046174587,"frozenset({'god', 'son'})"
+0.018537243006403775,"frozenset({'thee', 'god'})"
+0.006302662622177283,"frozenset({'things', 'god'})"
+0.023626558813616447,"frozenset({'god', 'thou'})"
+0.020155038759689922,"frozenset({'thy', 'god'})"
+0.03983822042467138,"frozenset({'unto', 'god'})"
+0.0052578361981799795,"frozenset({'good', 'lord'})"
+0.006673407482305359,"frozenset({'good', 'unto'})"
+0.0075497135153353555,"frozenset({'great', 'lord'})"
+0.005527468823727671,"frozenset({'shall', 'great'})"
+0.0069093360296595885,"frozenset({'unto', 'great'})"
+0.005089315807212673,"frozenset({'hand', 'king'})"
+0.015166835187057633,"frozenset({'hand', 'lord'})"
+0.005695989214694978,"frozenset({'hand', 'right'})"
+0.007583417593528817,"frozenset({'said', 'hand'})"
+0.010144927536231883,"frozenset({'shall', 'hand'})"
+0.0058645096056622855,"frozenset({'hand', 'thee'})"
+0.00623525446579036,"frozenset({'hand', 'thine'})"
+0.007617121671722279,"frozenset({'hand', 'thou'})"
+0.007347489046174587,"frozenset({'hand', 'thy'})"
+0.011425682507583418,"frozenset({'hand', 'unto'})"
+0.008190091001011122,"frozenset({'hast', 'lord'})"
+0.00717896865520728,"frozenset({'said', 'hast'})"
+0.008594539939332659,"frozenset({'thee', 'hast'})"
+0.028109201213346816,"frozenset({'hast', 'thou'})"
+0.011863835524098415,"frozenset({'thy', 'hast'})"
+0.009032692955847658,"frozenset({'unto', 'hast'})"
+0.024199528142905293,"frozenset({'hath', 'lord'})"
+0.0069767441860465115,"frozenset({'man', 'hath'})"
+0.012807549713515335,"frozenset({'said', 'hath'})"
+0.013549039433771486,"frozenset({'shall', 'hath'})"
+0.008055274688237277,"frozenset({'thee', 'hath'})"
+0.0075497135153353555,"frozenset({'hath', 'thou'})"
+0.008021570610043815,"frozenset({'thy', 'hath'})"
+0.017290192113245704,"frozenset({'unto', 'hath'})"
+0.00549376474553421,"frozenset({'hear', 'lord'})"
+0.005224132119986518,"frozenset({'unto', 'hear'})"
+0.00502190765082575,"frozenset({'heard', 'unto'})"
+0.0074823053589484325,"frozenset({'heart', 'lord'})"
+0.005055611729019211,"frozenset({'shall', 'heart'})"
+0.005527468823727671,"frozenset({'heart', 'unto'})"
+0.005123019885406134,"frozenset({'unto', 'heaven'})"
+0.006370070778564206,"frozenset({'holy', 'lord'})"
+0.007313784967981126,"frozenset({'shall', 'holy'})"
+0.0058308055274688235,"frozenset({'unto', 'holy'})"
+0.009908998988877654,"frozenset({'israel', 'house'})"
+0.007819346140883046,"frozenset({'house', 'king'})"
+0.020087630603303,"frozenset({'house', 'lord'})"
+0.005763397371081901,"frozenset({'house', 'man'})"
+0.007583417593528817,"frozenset({'said', 'house'})"
+0.010717896865520727,"frozenset({'shall', 'house'})"
+0.005358948432760364,"frozenset({'house', 'son'})"
+0.005224132119986518,"frozenset({'house', 'thee'})"
+0.006841927873272666,"frozenset({'house', 'thou'})"
+0.006605999325918436,"frozenset({'house', 'thy'})"
+0.014728682170542635,"frozenset({'house', 'unto'})"
+0.006538591169531514,"frozenset({'israel', 'judah'})"
+0.011762723289518032,"frozenset({'israel', 'king'})"
+0.008021570610043815,"frozenset({'israel', 'land'})"
+0.03114256825075834,"frozenset({'israel', 'lord'})"
+0.006875631951466127,"frozenset({'israel', 'man'})"
+0.0052578361981799795,"frozenset({'israel', 'men'})"
+0.005797101449275362,"frozenset({'israel', 'moses'})"
+0.00910010111223458,"frozenset({'israel', 'people'})"
+0.011425682507583418,"frozenset({'israel', 'said'})"
+0.006774519716885743,"frozenset({'israel', 'saith'})"
+0.015638692281766092,"frozenset({'israel', 'shall'})"
+0.007246376811594203,"frozenset({'israel', 'son'})"
+0.007145264577013819,"frozenset({'israel', 'thee'})"
+0.009605662285136502,"frozenset({'israel', 'thou'})"
+0.006302662622177283,"frozenset({'israel', 'thy'})"
+0.025042130097741828,"frozenset({'israel', 'unto'})"
+0.0058308055274688235,"frozenset({'judah', 'jerusalem'})"
+0.007111560498820358,"frozenset({'jerusalem', 'lord'})"
+0.0069767441860465115,"frozenset({'unto', 'jerusalem'})"
+0.006066734074823054,"frozenset({'jesus', 'lord'})"
+0.008560835861139197,"frozenset({'said', 'jesus'})"
+0.012874957869902259,"frozenset({'jesus', 'unto'})"
+0.007751937984496124,"frozenset({'judah', 'king'})"
+0.008426019548365353,"frozenset({'judah', 'lord'})"
+0.005931917762049208,"frozenset({'judah', 'unto'})"
+0.016616110549376475,"frozenset({'king', 'lord'})"
+0.005931917762049208,"frozenset({'king', 'people'})"
+0.013616447590158409,"frozenset({'said', 'king'})"
+0.005729693292888439,"frozenset({'saying', 'king'})"
+0.008257499157398046,"frozenset({'shall', 'king'})"
+0.009234917425008426,"frozenset({'king', 'son'})"
+0.006740815638692282,"frozenset({'thee', 'king'})"
+0.0074823053589484325,"frozenset({'king', 'thou'})"
+0.006201550387596899,"frozenset({'thy', 'king'})"
+0.01941354903943377,"frozenset({'unto', 'king'})"
+0.005392652510953826,"frozenset({'king', 'went'})"
+0.007684529828109201,"frozenset({'know', 'lord'})"
+0.007987866531850353,"frozenset({'know', 'shall'})"
+0.005190428041793057,"frozenset({'know', 'thou'})"
+0.006100438153016515,"frozenset({'know', 'unto'})"
+0.01627906976744186,"frozenset({'land', 'lord'})"
+0.006336366700370744,"frozenset({'land', 'people'})"
+0.005662285136501517,"frozenset({'said', 'land'})"
+0.015369059656218402,"frozenset({'shall', 'land'})"
+0.006875631951466127,"frozenset({'thee', 'land'})"
+0.007785642062689585,"frozenset({'land', 'thou'})"
+0.007381193124368048,"frozenset({'thy', 'land'})"
+0.015874620829120323,"frozenset({'land', 'unto'})"
+0.010144927536231883,"frozenset({'let', 'lord'})"
+0.005729693292888439,"frozenset({'let', 'man'})"
+0.010246039770812268,"frozenset({'said', 'let'})"
+0.005358948432760364,"frozenset({'let', 'shall'})"
+0.007246376811594203,"frozenset({'let', 'thee'})"
+0.005190428041793057,"frozenset({'let', 'thou'})"
+0.006572295247724975,"frozenset({'let', 'thy'})"
+0.012167172227839569,"frozenset({'let', 'unto'})"
+0.008897876643073812,"frozenset({'make', 'lord'})"
+0.013346814964610718,"frozenset({'man', 'lord'})"
+0.00765082574991574,"frozenset({'men', 'lord'})"
+0.015604988203572633,"frozenset({'moses', 'lord'})"
+0.007448601280754971,"frozenset({'offering', 'lord'})"
+0.007785642062689585,"frozenset({'pass', 'lord'})"
+0.020256150994270306,"frozenset({'people', 'lord'})"
+0.006167846309403438,"frozenset({'place', 'lord'})"
+0.03872598584428716,"frozenset({'said', 'lord'})"
+0.029592180653859115,"frozenset({'saith', 'lord'})"
+0.010481968318166498,"frozenset({'say', 'lord'})"
+0.01820020222446916,"frozenset({'saying', 'lord'})"
+0.00502190765082575,"frozenset({'sent', 'lord'})"
+0.0058645096056622855,"frozenset({'servant', 'lord'})"
+0.057263228850690934,"frozenset({'shall', 'lord'})"
+0.01290866194809572,"frozenset({'shalt', 'lord'})"
+0.005224132119986518,"frozenset({'sight', 'lord'})"
+0.010380856083586115,"frozenset({'son', 'lord'})"
+0.008358611391978429,"frozenset({'spake', 'lord'})"
+0.02989551735760027,"frozenset({'thee', 'lord'})"
+0.009302325581395349,"frozenset({'thine', 'lord'})"
+0.005898213683855747,"frozenset({'things', 'lord'})"
+0.0363329962925514,"frozenset({'thou', 'lord'})"
+0.0314459049544995,"frozenset({'thy', 'lord'})"
+0.07906976744186046,"frozenset({'unto', 'lord'})"
+0.005392652510953826,"frozenset({'voice', 'lord'})"
+0.005055611729019211,"frozenset({'way', 'lord'})"
+0.007077856420626896,"frozenset({'went', 'lord'})"
+0.01247050893158072,"frozenset({'word', 'lord'})"
+0.011560498820357264,"frozenset({'shall', 'make'})"
+0.006268958543983822,"frozenset({'thee', 'make'})"
+0.007819346140883046,"frozenset({'make', 'thou'})"
+0.005561172901921132,"frozenset({'thy', 'make'})"
+0.008459723626558814,"frozenset({'make', 'unto'})"
+0.005156723963599595,"frozenset({'man', 'men'})"
+0.013717559824738794,"frozenset({'said', 'man'})"
+0.019211324570273004,"frozenset({'shall', 'man'})"
+0.00957195820694304,"frozenset({'man', 'son'})"
+0.006774519716885743,"frozenset({'thee', 'man'})"
+0.010144927536231883,"frozenset({'man', 'thou'})"
+0.00549376474553421,"frozenset({'man', 'thy'})"
+0.021638018200202225,"frozenset({'man', 'unto'})"
+0.007381193124368048,"frozenset({'said', 'men'})"
+0.0081226828446242,"frozenset({'shall', 'men'})"
+0.012537917087967644,"frozenset({'unto', 'men'})"
+0.0069093360296595885,"frozenset({'said', 'moses'})"
+0.005123019885406134,"frozenset({'saying', 'moses'})"
+0.005224132119986518,"frozenset({'spake', 'moses'})"
+0.01412200876306033,"frozenset({'unto', 'moses'})"
+0.008223795079204585,"frozenset({'offering', 'shall'})"
+0.006370070778564206,"frozenset({'offering', 'unto'})"
+0.007313784967981126,"frozenset({'shall', 'pass'})"
+0.007751937984496124,"frozenset({'unto', 'pass'})"
+0.01027974384900573,"frozenset({'said', 'people'})"
+0.014863498483316482,"frozenset({'shall', 'people'})"
+0.007111560498820358,"frozenset({'thee', 'people'})"
+0.009706774519716885,"frozenset({'people', 'thou'})"
+0.008560835861139197,"frozenset({'thy', 'people'})"
+0.019750589821368385,"frozenset({'unto', 'people'})"
+0.007145264577013819,"frozenset({'shall', 'place'})"
+0.006774519716885743,"frozenset({'place', 'unto'})"
+0.006370070778564206,"frozenset({'thee', 'pray'})"
+0.005156723963599595,"frozenset({'unto', 'pray'})"
+0.006875631951466127,"frozenset({'shall', 'priest'})"
+0.005224132119986518,"frozenset({'unto', 'priest'})"
+0.019042804179305695,"frozenset({'said', 'shall'})"
+0.011156049882035727,"frozenset({'said', 'son'})"
+0.023997303673744523,"frozenset({'said', 'thee'})"
+0.006336366700370744,"frozenset({'said', 'thine'})"
+0.029726996966632963,"frozenset({'said', 'thou'})"
+0.018941691944725312,"frozenset({'said', 'thy'})"
+0.07209302325581396,"frozenset({'said', 'unto'})"
+0.0058645096056622855,"frozenset({'said', 'went'})"
+0.013077182339063027,"frozenset({'shall', 'saith'})"
+0.005527468823727671,"frozenset({'saith', 'thee'})"
+0.00717896865520728,"frozenset({'saith', 'thou'})"
+0.01506572295247725,"frozenset({'saith', 'unto'})"
+0.013110886417256488,"frozenset({'shall', 'say'})"
+0.005628581058308055,"frozenset({'thee', 'say'})"
+0.007920458375463431,"frozenset({'say', 'thou'})"
+0.018368722615436466,"frozenset({'say', 'unto'})"
+0.0081226828446242,"frozenset({'saying', 'shall'})"
+0.008560835861139197,"frozenset({'saying', 'spake'})"
+0.00596562184024267,"frozenset({'saying', 'thee'})"
+0.00788675429726997,"frozenset({'saying', 'thou'})"
+0.005055611729019211,"frozenset({'saying', 'thy'})"
+0.021469497809234916,"frozenset({'saying', 'unto'})"
+0.005426356589147287,"frozenset({'saying', 'word'})"
+0.009369733737782271,"frozenset({'unto', 'sent'})"
+0.006100438153016515,"frozenset({'servant', 'thy'})"
+0.005628581058308055,"frozenset({'servant', 'unto'})"
+0.005695989214694978,"frozenset({'servants', 'unto'})"
+0.014155712841253791,"frozenset({'shall', 'shalt'})"
+0.007145264577013819,"frozenset({'shall', 'son'})"
+0.025210650488709133,"frozenset({'shall', 'thee'})"
+0.007853050219076509,"frozenset({'shall', 'thereof'})"
+0.006875631951466127,"frozenset({'shall', 'thine'})"
+0.00502190765082575,"frozenset({'shall', 'thing'})"
+0.006201550387596899,"frozenset({'shall', 'things'})"
+0.026491405460060666,"frozenset({'shall', 'thou'})"
+0.02507583417593529,"frozenset({'shall', 'thy'})"
+0.05166835187057634,"frozenset({'shall', 'unto'})"
+0.013313110886417257,"frozenset({'thee', 'shalt'})"
+0.04084934277047523,"frozenset({'thou', 'shalt'})"
+0.015840916750926862,"frozenset({'thy', 'shalt'})"
+0.013683855746545332,"frozenset({'unto', 'shalt'})"
+0.005089315807212673,"frozenset({'thee', 'son'})"
+0.008560835861139197,"frozenset({'son', 'thou'})"
+0.005931917762049208,"frozenset({'thy', 'son'})"
+0.016380182002022244,"frozenset({'unto', 'son'})"
+0.006808223795079204,"frozenset({'unto', 'sons'})"
+0.012335692618806876,"frozenset({'spake', 'unto'})"
+0.00765082574991574,"frozenset({'speak', 'unto'})"
+0.010347152005392652,"frozenset({'thee', 'thine'})"
+0.04226491405460061,"frozenset({'thee', 'thou'})"
+0.03808560835861139,"frozenset({'thee', 'thy'})"
+0.038658577687900236,"frozenset({'thee', 'unto'})"
+0.005460060667340748,"frozenset({'unto', 'thereof'})"
+0.014627569935962252,"frozenset({'thine', 'thou'})"
+0.01385237613751264,"frozenset({'thy', 'thine'})"
+0.00906639703404112,"frozenset({'unto', 'thine'})"
+0.005123019885406134,"frozenset({'unto', 'thing'})"
+0.010111223458038422,"frozenset({'things', 'unto'})"
+0.047590158409167506,"frozenset({'thy', 'thou'})"
+0.04526457701381867,"frozenset({'unto', 'thou'})"
+0.03286147623862487,"frozenset({'thy', 'unto'})"
+0.005190428041793057,"frozenset({'time', 'unto'})"
+0.005729693292888439,"frozenset({'took', 'unto'})"
+0.005224132119986518,"frozenset({'unto', 'way'})"
+0.01243680485338726,"frozenset({'unto', 'went'})"
+0.008998988877654197,"frozenset({'word', 'unto'})"
+0.0058645096056622855,"frozenset({'words', 'unto'})"
+0.005662285136501517,"frozenset({'said', 'answered', 'unto'})"
+0.005931917762049208,"frozenset({'art', 'unto', 'thou'})"
+0.005999325918436131,"frozenset({'said', 'unto', 'behold'})"
+0.0052578361981799795,"frozenset({'saying', 'came', 'lord'})"
+0.007617121671722279,"frozenset({'unto', 'came', 'lord'})"
+0.007246376811594203,"frozenset({'said', 'unto', 'came'})"
+0.005156723963599595,"frozenset({'saying', 'unto', 'came'})"
+0.009302325581395349,"frozenset({'israel', 'children', 'lord'})"
+0.005392652510953826,"frozenset({'israel', 'shall', 'children'})"
+0.009268621503201888,"frozenset({'israel', 'unto', 'children'})"
+0.006471183013144591,"frozenset({'children', 'unto', 'lord'})"
+0.007145264577013819,"frozenset({'shall', 'come', 'lord'})"
+0.00596562184024267,"frozenset({'unto', 'come', 'lord'})"
+0.005055611729019211,"frozenset({'shall', 'come', 'pass'})"
+0.008055274688237277,"frozenset({'said', 'unto', 'come'})"
+0.006808223795079204,"frozenset({'shall', 'unto', 'come'})"
+0.005190428041793057,"frozenset({'thee', 'unto', 'come'})"
+0.0058645096056622855,"frozenset({'shall', 'day', 'lord'})"
+0.006639703404111898,"frozenset({'day', 'unto', 'lord'})"
+0.005460060667340748,"frozenset({'god', 'hast', 'thou'})"
+0.007347489046174587,"frozenset({'hath', 'god', 'lord'})"
+0.005156723963599595,"frozenset({'unto', 'hath', 'god'})"
+0.011459386585776879,"frozenset({'israel', 'god', 'lord'})"
+0.00596562184024267,"frozenset({'israel', 'unto', 'god'})"
+0.006066734074823054,"frozenset({'land', 'god', 'lord'})"
+0.005358948432760364,"frozenset({'people', 'god', 'lord'})"
+0.008291203235591507,"frozenset({'said', 'god', 'lord'})"
+0.011661611054937647,"frozenset({'saith', 'god', 'lord'})"
+0.013818672059319177,"frozenset({'shall', 'god', 'lord'})"
+0.005999325918436131,"frozenset({'shalt', 'god', 'lord'})"
+0.011054937647455342,"frozenset({'thee', 'god', 'lord'})"
+0.013717559824738794,"frozenset({'thou', 'god', 'lord'})"
+0.01412200876306033,"frozenset({'thy', 'god', 'lord'})"
+0.01870576339737108,"frozenset({'unto', 'god', 'lord'})"
+0.005426356589147287,"frozenset({'said', 'god', 'thou'})"
+0.011459386585776879,"frozenset({'said', 'unto', 'god'})"
+0.007920458375463431,"frozenset({'shall', 'unto', 'god'})"
+0.007347489046174587,"frozenset({'thou', 'god', 'shalt'})"
+0.0053252443545669026,"frozenset({'thy', 'god', 'shalt'})"
+0.009875294910684193,"frozenset({'thee', 'god', 'thou'})"
+0.010111223458038422,"frozenset({'thee', 'thy', 'god'})"
+0.0075160094371418944,"frozenset({'thee', 'unto', 'god'})"
+0.011897539602291876,"frozenset({'thy', 'god', 'thou'})"
+0.009201213346814965,"frozenset({'unto', 'god', 'thou'})"
+0.007617121671722279,"frozenset({'thy', 'unto', 'god'})"
+0.00502190765082575,"frozenset({'hand', 'unto', 'lord'})"
+0.008055274688237277,"frozenset({'thou', 'hast', 'lord'})"
+0.007111560498820358,"frozenset({'said', 'hast', 'thou'})"
+0.008426019548365353,"frozenset({'thee', 'hast', 'thou'})"
+0.011560498820357264,"frozenset({'thy', 'hast', 'thou'})"
+0.00886417256488035,"frozenset({'unto', 'hast', 'thou'})"
+0.006302662622177283,"frozenset({'said', 'hath', 'lord'})"
+0.005999325918436131,"frozenset({'shall', 'hath', 'lord'})"
+0.008695652173913044,"frozenset({'unto', 'hath', 'lord'})"
+0.007111560498820358,"frozenset({'said', 'unto', 'hath'})"
+0.005931917762049208,"frozenset({'house', 'unto', 'lord'})"
+0.006066734074823054,"frozenset({'israel', 'said', 'lord'})"
+0.0064374789349511295,"frozenset({'israel', 'saith', 'lord'})"
+0.007212672733400742,"frozenset({'israel', 'shall', 'lord'})"
+0.012403100775193798,"frozenset({'israel', 'unto', 'lord'})"
+0.007381193124368048,"frozenset({'israel', 'unto', 'said'})"
+0.005594876980114594,"frozenset({'israel', 'shall', 'unto'})"
+0.0064374789349511295,"frozenset({'said', 'jesus', 'unto'})"
+0.00549376474553421,"frozenset({'unto', 'king', 'lord'})"
+0.008358611391978429,"frozenset({'said', 'unto', 'king'})"
+0.006201550387596899,"frozenset({'shall', 'land', 'lord'})"
+0.006336366700370744,"frozenset({'land', 'unto', 'lord'})"
+0.006100438153016515,"frozenset({'said', 'unto', 'let'})"
+0.005123019885406134,"frozenset({'man', 'unto', 'lord'})"
+0.010347152005392652,"frozenset({'unto', 'moses', 'lord'})"
+0.005055611729019211,"frozenset({'offering', 'unto', 'lord'})"
+0.005156723963599595,"frozenset({'said', 'people', 'lord'})"
+0.005089315807212673,"frozenset({'shall', 'people', 'lord'})"
+0.008594539939332659,"frozenset({'people', 'unto', 'lord'})"
+0.007347489046174587,"frozenset({'said', 'shall', 'lord'})"
+0.00886417256488035,"frozenset({'said', 'thee', 'lord'})"
+0.010785305021907651,"frozenset({'said', 'thou', 'lord'})"
+0.006774519716885743,"frozenset({'said', 'thy', 'lord'})"
+0.023963599595551062,"frozenset({'said', 'unto', 'lord'})"
+0.011425682507583418,"frozenset({'shall', 'saith', 'lord'})"
+0.005123019885406134,"frozenset({'saith', 'thou', 'lord'})"
+0.008324907313784968,"frozenset({'saith', 'unto', 'lord'})"
+0.006134142231209976,"frozenset({'say', 'unto', 'lord'})"
+0.005190428041793057,"frozenset({'saying', 'spake', 'lord'})"
+0.011459386585776879,"frozenset({'saying', 'unto', 'lord'})"
+0.008661948095719582,"frozenset({'shall', 'thee', 'lord'})"
+0.008661948095719582,"frozenset({'shall', 'thou', 'lord'})"
+0.008560835861139197,"frozenset({'shall', 'thy', 'lord'})"
+0.019177620492079543,"frozenset({'shall', 'unto', 'lord'})"
+0.005224132119986518,"frozenset({'shalt', 'thee', 'lord'})"
+0.012874957869902259,"frozenset({'shalt', 'thou', 'lord'})"
+0.0069093360296595885,"frozenset({'shalt', 'thy', 'lord'})"
+0.006268958543983822,"frozenset({'shalt', 'unto', 'lord'})"
+0.006774519716885743,"frozenset({'spake', 'unto', 'lord'})"
+0.013987192450286484,"frozenset({'thou', 'thee', 'lord'})"
+0.014324233232221099,"frozenset({'thee', 'thy', 'lord'})"
+0.014020896528479945,"frozenset({'thee', 'unto', 'lord'})"
+0.00502190765082575,"frozenset({'thou', 'thine', 'lord'})"
+0.005156723963599595,"frozenset({'thy', 'thine', 'lord'})"
+0.016177957532861477,"frozenset({'thou', 'thy', 'lord'})"
+0.016211661611054938,"frozenset({'thou', 'unto', 'lord'})"
+0.012537917087967644,"frozenset({'thy', 'unto', 'lord'})"
+0.00623525446579036,"frozenset({'word', 'unto', 'lord'})"
+0.008493427704752275,"frozenset({'said', 'man', 'unto'})"
+0.005729693292888439,"frozenset({'shall', 'man', 'unto'})"
+0.005392652510953826,"frozenset({'said', 'unto', 'moses'})"
+0.006740815638692282,"frozenset({'said', 'unto', 'people'})"
+0.011459386585776879,"frozenset({'said', 'shall', 'unto'})"
+0.006808223795079204,"frozenset({'said', 'unto', 'son'})"
+0.009875294910684193,"frozenset({'said', 'thee', 'thou'})"
+0.007751937984496124,"frozenset({'said', 'thy', 'thee'})"
+0.016852039096730706,"frozenset({'said', 'thee', 'unto'})"
+0.007819346140883046,"frozenset({'said', 'thy', 'thou'})"
+0.020020222446916078,"frozenset({'said', 'unto', 'thou'})"
+0.012571621166161106,"frozenset({'said', 'thy', 'unto'})"
+0.00765082574991574,"frozenset({'shall', 'say', 'unto'})"
+0.005055611729019211,"frozenset({'say', 'unto', 'thou'})"
+0.0069767441860465115,"frozenset({'saying', 'spake', 'unto'})"
+0.006134142231209976,"frozenset({'shall', 'thee', 'shalt'})"
+0.01412200876306033,"frozenset({'shall', 'thou', 'shalt'})"
+0.005898213683855747,"frozenset({'shall', 'thy', 'shalt'})"
+0.005156723963599595,"frozenset({'shall', 'unto', 'shalt'})"
+0.011560498820357264,"frozenset({'shall', 'thee', 'thou'})"
+0.01193124368048534,"frozenset({'thee', 'shall', 'thy'})"
+0.01031344792719919,"frozenset({'shall', 'thee', 'unto'})"
+0.011324570273003034,"frozenset({'shall', 'thy', 'thou'})"
+0.009875294910684193,"frozenset({'shall', 'unto', 'thou'})"
+0.008594539939332659,"frozenset({'shall', 'thy', 'unto'})"
+0.013313110886417257,"frozenset({'thou', 'thee', 'shalt'})"
+0.006471183013144591,"frozenset({'thee', 'thy', 'shalt'})"
+0.0058308055274688235,"frozenset({'thee', 'unto', 'shalt'})"
+0.015840916750926862,"frozenset({'thou', 'thy', 'shalt'})"
+0.013650151668351871,"frozenset({'thou', 'unto', 'shalt'})"
+0.005561172901921132,"frozenset({'thy', 'unto', 'shalt'})"
+0.005156723963599595,"frozenset({'thee', 'thine', 'thou'})"
+0.005561172901921132,"frozenset({'thee', 'thy', 'thine'})"
+0.018537243006403775,"frozenset({'thee', 'thy', 'thou'})"
+0.01840242669362993,"frozenset({'thee', 'unto', 'thou'})"
+0.015099427030670711,"frozenset({'thee', 'thy', 'unto'})"
+0.007819346140883046,"frozenset({'thy', 'thine', 'thou'})"
+0.015706100438153018,"frozenset({'thy', 'unto', 'thou'})"
